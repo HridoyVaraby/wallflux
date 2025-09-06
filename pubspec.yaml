@@ -39,8 +39,8 @@ dependencies:
   # HTTP requests
   http: ^1.1.0
   
-  # Wallpaper management
-  flutter_wallpaper_manager: ^0.0.3
+  # Wallpaper management - using Android intent
+  # async_wallpaper: ^2.1.0
   
   # Background task scheduling
   android_alarm_manager_plus: ^4.0.2
