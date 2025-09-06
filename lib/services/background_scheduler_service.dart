@@ -77,7 +77,7 @@ class BackgroundSchedulerService {
       rescheduleOnReboot: true,
     );
     
-    print('Scheduled periodic updates every ${intervalMinutes} minutes');
+    print('Scheduled periodic updates every $intervalMinutes minutes');
   }
 
   /// Schedule daily wallpaper update at specific time
